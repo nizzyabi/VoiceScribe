@@ -18,26 +18,6 @@ Before running the application, make sure you have the following dependencies in
 - OpenAI API key: Obtain an API key from OpenAI to enable speech recognition.
 - Whisper API key: Get an API key from Xenova (Whisper) to enable text translation.
 
-## Installation
-
-1. Clone this repository to your local machine.
-
-```
-git clone https://github.com/your-username/speech-to-text-translation.git
-```
-
-2. Navigate to the project directory.
-
-```
-cd speech-to-text-translation
-```
-
-3. Install the required dependencies.
-
-```
-npm install
-```
-
 ## Contributing
 
 Contributions to this project are welcome. If you encounter any issues or have ideas for improvements, please open an issue or submit a pull request.
